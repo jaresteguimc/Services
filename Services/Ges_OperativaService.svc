@@ -1,0 +1,1 @@
+﻿sss<%@ ServiceHost   Service="Contract.ServiceImpl.Ges_OperativaService"%>
